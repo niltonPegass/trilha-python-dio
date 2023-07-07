@@ -1,5 +1,8 @@
 frutas = ["laranja", "maca", "uva"]
 print(frutas)
+# acessando elementos
+frutas[0] # primeiro item
+frutas[-1] # último item
 
 frutas = []
 print(frutas)
