@@ -4,7 +4,7 @@ print(frutas)
 frutas = []
 print(frutas)
 
-letras = list("python")
+letras = list("python") # não é um objeto "python", é um objeto iterável "p, y, t, h, o, n"
 print(letras)
 
 numeros = list(range(10))
